@@ -1,0 +1,21 @@
+h1 {
+  font-weight: bold;
+  color: #1f4181;
+  font-size: 50px;
+}
+.storyboard-nav .sbframelist ul li {
+  font-size: 20pt;
+  background-image: linear-gradient(#fabc29, #fabc29);
+}
+.storyboard-nav .sbframelist ul li.active{
+  background-image: linear-gradient(#1f4181, #1f4181);
+}
+.sbframe-commentary {
+  font-size: 20pt;
+}
+.navbar-inverse {
+  background-image: linear-gradient(#1f4181, #1f4181);
+}
+.section.sidebar{
+  background-image: linear-gradient(#fabc29, #fabc29);
+}
